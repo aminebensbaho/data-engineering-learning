@@ -1,6 +1,3 @@
-# data-engineering-learning
-Structured data engineering practice: data cleaning, EDA, and Python-based data workflows.
-
 # Data Engineering Learning Log
 
 This repository documents a structured and continuous practice of data engineering fundamentals using Python.
